@@ -51,7 +51,7 @@ const Tech = () => {
             loop
             muted
             autoPlay="autoplay"
-            src="/galaxy-anim.mp4"
+            src="/galaxy.mp4"
           ></video>
         </div>
       </div>
